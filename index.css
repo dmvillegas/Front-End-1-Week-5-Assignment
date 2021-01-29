@@ -3,6 +3,7 @@
   margin: auto;
   margin-top: 2%;
   text-align: center;
+  background-color: lightblue;
 }
 
 th{
@@ -13,3 +14,18 @@ img{
   width: 40px;
   height: auto;
 }
+.table {
+	display: flex;
+  color:white;
+	background-color: lightblue;
+	
+}
+.col {
+  flex:15;
+}
+.display2 {
+ padding: 20px;
+  font-size:20px;
+  color:lightblue;
+  color:white;
+  }
